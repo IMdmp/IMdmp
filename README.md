@@ -2,8 +2,6 @@
 
 I'm Dom, Android developer in Quipper.
 
-- Currently trying to internalize a "just code everyday" habit
-
 
 <!--
 **IMdmp/IMdmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
