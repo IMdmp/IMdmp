@@ -11,7 +11,7 @@
 
 - 📖 Studying Japanese/日本語 on my spare time
 
-- 💻 Also tinkering here and there a bit of Ruby on Rails and iOS. 
+- 💻 Also tinkering a bit of Ruby on Rails and iOS. 
 
 - 🏃 Running is my hobby. Ultimate health goal is to run a marathon in every major city in the world.
 
