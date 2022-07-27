@@ -15,7 +15,7 @@
 
 - 🏃 Running is my hobby. Ultimate health goal is to run a marathon in every major city in the world.
 
-- 📫 How to reach me **dompagtalunan@gmail.com**
+- 📫 How to reach me: **dompagtalunan@gmail.com**
 
 - ⚡ Random Fun fact not related to me: **You can live with a diet consisting of entirely just potatoes 🥔 🍟**
 
