@@ -5,19 +5,19 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm a mobile developer from Manila, Philippines</h3>
 
-- 🔭 I’m currently working as an Android Developer at Quipper Philippines
+- 🔭 Currently working as an Android Developer at Quipper Philippines
 
-- 🌱 Career related, currently learning **Jetpack Compose, WebRTC**
+- 🌱 Learning **Jetpack Compose, WebRTC**
 
 - 📖 Studying Japanese/日本語 on my spare time
 
-- 💻 Also tinkering a bit of Ruby on Rails and iOS. 
+- 💻 Also tinkering with Ruby on Rails and iOS for fun
 
-- 🏃 Running is my hobby. Ultimate health goal is to run a marathon in every major city in the world.
+- 🏃 I love running. Ultimate health goal is to run a marathon in every major city in the world
 
 - 📫 How to reach me: **dompagtalunan@gmail.com**
 
-- ⚡ Random Fun fact not related to me: **You can live with a diet consisting of entirely just potatoes 🥔 🍟**
+- ⚡ Unrelated fun fact: **You can live with a diet consisting of entirely just potatoes 🥔 🍟**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imdmp&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
